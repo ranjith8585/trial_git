@@ -1,6 +1,1 @@
 This is sample text
-this is test line
-this is from first_branch.
-to insert conflict
-the conflicted line.
-hello world.
